@@ -1,0 +1,27 @@
+
+img.Frontend {
+    padding:150px 0px 0px 100px;
+    width: 100%;
+}
+p.MuiTypography-root.Home.MuiTypography-body1 {
+    
+    font-size: xxx-large;
+    font-weight: 700;
+    margin-top: 13rem;
+    text-align-last:left;
+    padding: 0px 0px 0px 230px;
+    font-family: 'Montserrat', sans-serif;
+}
+p.MuiTypography-root.WhyIdo.MuiTypography-body1 {
+    padding: 0px 0px 0px 230px;
+    text-align-last:left;
+}
+img.Chart{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.MuiTypography-root.SkillsChart.MuiTypography-h2 {
+    padding: 23px 0px 0px 326px;
+    margin: 1rem;
+}
