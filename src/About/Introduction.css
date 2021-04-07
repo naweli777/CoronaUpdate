@@ -19,35 +19,16 @@ p.MuiTypography-root.IntroContent.MuiTypography-body1{
     text-align: center;
     margin-top: 3rem;
     font-family: 'Amaranth', sans-serif;
-    font-size: xx-large;
+    font-size: xxx-large;
 
 }
 
-img.Think {
-    width: 9rem;
-    /* margin: inherit;
-    padding: 15px 0px 0px 760px; */
-}
-img.Analysing {
-    width: 8rem;
-    /* padding: 50px 0px 0px 1001px; */
-}
-img.Imply {
-    width: 8rem;
-    /* padding: 30px 0px 0px 703px; */
-}
-img.Revaluation {
-    
-   
-    width: 8rem;
-  
- 
-}
+
 h4.MuiTypography-root.MuiTypography-h4
 {
     color: white;
     margin: auto;
-    font-family:'Amaranth', sans-serif; ;
+    font-family:'Amaranth', sans-serif; 
 }
 .Meethodologies {
     display: flex;
